@@ -1,7 +1,7 @@
 import socket
 
 # Configuración del servidor
-SERVER_HOST = '127.0.0.1'
+SERVER_HOST = '192.168.150.64'
 SERVER_PORT = 12345
 
 # Crear un socket TCP
